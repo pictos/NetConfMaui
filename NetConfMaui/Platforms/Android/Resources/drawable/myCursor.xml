@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item>
+		<shape>
+			<!-- edit text cursor width 2 dp -->
+			<size android:width="2dp"/>
+			<!-- edit text cursor color red -->
+			<solid android:color="#00ff00"/>
+		</shape>
+	</item>
+</selector>
