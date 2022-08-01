@@ -4,7 +4,7 @@
 		<shape>
 			<!-- edit text cursor width 2 dp -->
 			<size android:width="2dp"/>
-			<!-- edit text cursor color red -->
+			<!-- edit text cursor color Green -->
 			<solid android:color="#00ff00"/>
 		</shape>
 	</item>
